@@ -11495,3 +11495,16 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+.font {
+  font-family: 'Roboto', sans-serif;
+}
+.velikost {
+  font-size:  25px;
+}
+
+.mid{
+  text-align: center;
+}
+figure{
+  text-align: center  ;
+}
